@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap');
+
+.App{
+  height: 100vh;
+}
+
+h2{
+  font-size: 150%;
+  font-family: 'Cabin', sans-serif;
+}
